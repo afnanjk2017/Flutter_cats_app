@@ -3,5 +3,5 @@
 
 
 
-![Image Alt Text](img/image1.png)
-![Image Alt Text](img/image2.png)
+![Image Alt Text](img/IMG_3306.jpg)
+![Image Alt Text](img/IMG_3308.jpg)
